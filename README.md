@@ -20,6 +20,7 @@ map kayaknya gak pake sprite tapi pake gambar utuh (masih di pertimbangkan)
 <strong>Controller</strong>
 1. Maingame = class yng buat ngatur saat aisha diluar 
 2. HouseSreen = tampilan dalam rumah yg masak (<strong>Yogi kupercayakan kepadamu</strong>)
+3. InputController = buat input (sementara fix)
 
 <strong>Alur</strong>
 <img src="flowfr.png" width="100%" height="100%">
