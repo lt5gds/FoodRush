@@ -1,8 +1,8 @@
-FoodRush Project
+<h1><strong> FoodRush Project </strong></h1>
 
 ada perubahan kemarin background diem camera gerak sekarang camera dan background yg bergerak aisha yang diem
 
-map gak pale sprite tapi pake satu gamabar png utuh
+map kayaknya gak pake sprite tapi pake gambar utuh (masih di pertimbangkan)
 
 <strong>Model</strong> 
 1. aisha = data tentang aisha
@@ -13,7 +13,7 @@ map gak pale sprite tapi pake satu gamabar png utuh
 
 <strong>View</strong>
 1. Map
-2. FirstScreen = tampilan pertama kali muncul (menu awal yg foodrush play, <strong>kalo udah ngisi sound isi ini juga ya OLGA</strong>)
+2. FirstScreen = tampilan pertama kali muncul (menu awal yg foodrush play, <strong>kalo udah ngisi sound isi ini juga ya Olga</strong>)
 3. Camera = seting camera (sementara fix)
 
 
